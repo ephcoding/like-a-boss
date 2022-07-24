@@ -1,2 +1,10 @@
-# boss
-business resources for indie mobile devs
+# **BOSS: business resources for indie mobile devs**
+
+## **Business Formation**
+
+- [ ]()
+- [ ]()
+- [ ]()
+- [ ]()
+
+## ****
